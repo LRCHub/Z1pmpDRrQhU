@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ghostin (Official Audio)",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-10T16:11:15.575305Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ghostin",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/01_ghostin_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ghostin",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/02_ghostin_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ghostin",
+      "artist": "アリアナ・グランデ",
+      "has_synced": true,
+      "path": "select/03_ghostin_アリアナ・グランデ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ghostin' You",
+      "artist": "Caitlin Myers",
+      "has_synced": true,
+      "path": "select/04_Ghostin'_You_Caitlin_Myers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ghostin'",
+      "artist": "Lil Wyte",
+      "has_synced": false,
+      "path": "select/05_Ghostin'_Lil_Wyte.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ghostin",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/06_ghostin_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ghostin",
+      "artist": "Smrtdeath",
+      "has_synced": true,
+      "path": "select/07_Ghostin_Smrtdeath.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ghostin",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_ghostin_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ghostin (Official Audio)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/09_ghostin_(Official_Audio)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ghostin",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/10_Ghostin_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ghostin'",
+      "artist": "KIM WOO SEOK",
+      "has_synced": true,
+      "path": "select/11_Ghostin'_KIM_WOO_SEOK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ghostin' You",
+      "artist": "Caitlin Myers",
+      "has_synced": true,
+      "path": "select/12_Ghostin'_You_Caitlin_Myers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ghostin (Official Audio)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/13_ghostin_(Official_Audio)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ariana Grande - ghostin (Official Audio)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/14_Ariana_Grande_-_ghostin_(Official_Audio)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ghostin'",
+      "artist": "Wesley Joseph",
+      "has_synced": true,
+      "path": "select/15_Ghostin'_Wesley_Joseph.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ghostin",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/16_Ghostin_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ghostin (Instrumental)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/17_ghostin_(Instrumental)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ghostin' Again (feat. Maulululu)",
+      "artist": "Seizasaurus",
+      "has_synced": true,
+      "path": "select/18_Ghostin'_Again_(feat._Maulululu)_Seizasaurus.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "GHOSTIN' THE MAINFRAME",
+      "artist": "LAKE SAVAGE",
+      "has_synced": false,
+      "path": "select/19_GHOSTIN'_THE_MAINFRAME_LAKE_SAVAGE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ghostin",
+      "artist": "アリアナ・グランデ",
+      "has_synced": false,
+      "path": "select/pl_01_ghostin_アリアナ・グランデ.txt"
+    }
+  ]
+}
